@@ -22,7 +22,7 @@ Instalación
 5 Crear y configurar una cuenta de pusher
 
     ingresar en https://pusher.com/ y crear una nueva app
-    poner credenciales de empujador al archivo .env 
+    poner credenciales de pusher al archivo .env 
     remplace PUSHER_APP_KEY en su app.blade.php
 
    var pusher = new Pusher('aca va la clave', {
